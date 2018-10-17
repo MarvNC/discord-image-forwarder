@@ -1,0 +1,19 @@
+{
+    "token": "USER TOKEN",
+    "userid": "ID OF USER",
+    "channelids": [
+        [
+            "ID OF CHANNEL TO MONITOR",
+            [
+                "ID OF CHANNEL TO SEND TO",
+                "ID OF OTHER CHANNEL TO SEND TO"
+            ]
+        ],
+        [
+            "ID OF CHANNEL TO MONITOR",
+            [
+                "ID OF CHANNEL TO SEND TO"
+            ]
+        ]
+    ]
+}
